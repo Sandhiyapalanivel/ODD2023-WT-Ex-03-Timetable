@@ -105,5 +105,4 @@ Execute the program
         <td align="center" bgcolor="#e7feff " height="50">19EE404/Digital Electronics</td>
     </tr>
 </table>
-</table>
 # OUPUT
