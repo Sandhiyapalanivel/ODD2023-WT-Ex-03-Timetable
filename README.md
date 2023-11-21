@@ -20,9 +20,9 @@ Execute the program
     </tr>
     <tr bgcolor="#728FCE">
         <th align= "center"  colspan="1"  height="40" width="80"><b>NAME</b></th>
-        <th align= "center"  colspan="2"  bgcolor="LightSteelBlue" height="40" width="80"><b>Kamalraj</b></th>
+        <th align= "center"  colspan="2"  bgcolor="LightSteelBlue" height="40" width="80"><b>Sandhiya</b></th>
         <th align= "center"  colspan="1"  height="40" width="80"><b>REF.NO</b></th>
-        <th align= "center"  colspan="2"  bgcolor="LightSteelBlue" height="40" width="80"><b>23012941</b></th>
+        <th align= "center"  colspan="2"  bgcolor="LightSteelBlue" height="40" width="80"><b>23012555</b></th>
     </tr>
     <tr bgcolor="#A0D6B4">
         <th align= "center"  colspan="6" height="40" width="50"> <b>SEMESTER-1 ODD-JUNIOR(2023-2024)</b></th>
