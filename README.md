@@ -122,4 +122,5 @@ Execute the program
 </html>
             
 # OUPUT
-![Uploading Screenshot (6).png…]()
+![Screenshot (6)](https://github.com/Sandhiyapalanivel/ODD2023-WT-Ex-03-Timetable/assets/145743091/7129bb33-5763-4dea-86e6-eb05d47d2a2a)
+
